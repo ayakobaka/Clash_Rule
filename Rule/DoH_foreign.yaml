@@ -25,4 +25,5 @@ payload:
   - doh.bebasid.com
   - dns0.eu
   - dns9.quad9.net
+  # 已测试没被污染，注释走直连
   #- dns.nextdns.io
